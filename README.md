@@ -101,6 +101,5 @@ pnpm preview
 
 - 当前仓库同时存在 `pnpm-lock.yaml` 与 `package-lock.json`，建议团队内统一一个包管理器，避免锁文件冲突。
 - 命令面板里的“复制邮箱”动作默认值在 `src/components/CommandPalette.vue` 中，可按实际邮箱替换。
-=======
-# resume-portfolio
-现代化个人简历与作品集站点，基于 Vue 3 + TypeScript + Vite 构建，聚焦工程化实践、项目展示与 AI 工具能力
+
+
